@@ -4,7 +4,7 @@ Simple Python script that listens for spoken commands and predicts whether to tu
 
 # ABOUT
 
-AUTHOR/DEVELOPER : A VINAY KUAMR <br>
+Author/DEVELOPER : A VINAY KUAMR <br>
 MAIL : avinaykumar2004@gmail.com <br>
 LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 
