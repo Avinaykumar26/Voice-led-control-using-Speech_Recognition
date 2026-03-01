@@ -4,7 +4,7 @@ Simple Python script that listens for spoken commands and predicts whether to tu
 
 # ABOUT
 
-Author/Developer: A VINAY KUAMR <br>
+Author / Developer : A VINAY KUAMR <br>
 MAIL : avinaykumar2004@gmail.com <br>
 LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 
@@ -25,6 +25,7 @@ LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 - Requires a microphone and internet access (Google Speech API).
 - The model is a simple logistic regression on a tiny command set.
 - Say "exit" or "stop" to quit.
+
 
 
 
